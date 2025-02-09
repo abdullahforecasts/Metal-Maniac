@@ -21,7 +21,7 @@ struct Soldier {
     int frameCounter;
     int frameSpeed;
     int dir;
-    Rectangle frameRec; 
+    Rectangle frameRec; // Rectangle to define the current frame of the sprite sheet
 } sd;
 
 void InitGame(Soldier& hero, Texture2D& bg1, Texture2D& bg2, int& bg1x, int& bg2x) {
@@ -46,7 +46,7 @@ void InitGame(Soldier& hero, Texture2D& bg1, Texture2D& bg2, int& bg1x, int& bg2
     hero.dir = 1;
     hero.currentFrame = 0;
     hero.frameCounter = 0;
-    hero.frameSpeed = 10; 
+    hero.frameSpeed = 10; // Adjust this value to control animation speed
     hero.frameRec = { 0.0f, 0.0f, (float)hero.texture.width / 2, (float)hero.texture.height }; // Assuming 2 frames for initial texture
 }
 
