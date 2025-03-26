@@ -1,8 +1,5 @@
 # Metal Maniac 🎮💥
 
-[![Gameplay Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/h3-jmia6l1M?si=Th_7YPBnEvFB8ox4)  
-*Click the image above to watch gameplay on YouTube  
-
 [🔫 Gameplay Video](https://youtube.com/shorts/h3-jmia6l1M?si=Th_7YPBnEvFB8ox4)
 
 ## Table of Contents
