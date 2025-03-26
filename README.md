@@ -86,7 +86,6 @@ The game includes:
 - 2 background music tracks
 - Multiple background layers
 
-All assets properly credited in [CREDITS.md](CREDITS.md).
 
 ## Development
 ### Built with:
