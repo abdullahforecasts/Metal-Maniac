@@ -3,7 +3,7 @@
 ![Metal Maniac](https://img.shields.io/badge/Metal_Maniac-C%2B%2B-red.svg)
 
 ## Link
-[🔥 Check Out the Action](https://drive.google.com/file/d/1LSOiBUr3T4kfNZBVvvACSJx1cRYVQQWL/view?usp=drive_link)
+[🔥 Check Out the Action (Video of GamePlay) ](https://drive.google.com/file/d/1LSOiBUr3T4kfNZBVvvACSJx1cRYVQQWL/view?usp=drive_link)
 
 
 ## Table of Contents
